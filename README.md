@@ -69,7 +69,7 @@
 <br>
 <h2 align="center">:chart_with_upwards_trend: Language Matrix</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjayeshpatil&layout=compact&theme=radical">
 </div>
 
 <!-- Skills -->
