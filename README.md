@@ -35,7 +35,7 @@
 <!-- GitHub Stats -->
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidz111&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=imjayeshpatil&show_icons=true&theme=radical">
 </div>
 
 <!-- Typing Animation -->
