@@ -3,24 +3,24 @@
   <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image">
 </p>
 
-<h1 align="center">👾 Greetings, I'm Shuddhodhan Surwade! 👾</h1>
+<h1 align="center">👾 Greetings, I'm Jayesh Patil! 👾</h1>
 
 <!-- About Me -->
 <h2 align="center">💫 About Me : </h2>
 
 <p align="center"> 
-  • 🇮🇳 Lives in India - Shirpur Dhule<br>
-  • 📧 Contact me at sssurwade2212@gmail.com<br>
+  • 🇮🇳 Lives in India - Nashik Pune<br>
+  • 📧 Contact me at japatil1996@gmail.com<br>
   • 👨‍💻 I’m Java FullStack.<br>
   • 💬 Ask me about Java.<br>
-  • 🧿 View my <a href="https://sidz111.github.io/sidz.github.io/" target="_blank">Portfolio</a><br>
+  • 🧿 View my <a href="https://imjayeshpatil.github.io/portfolio/" target="_blank">Portfolio</a><br>
 </p>
 
 <p align="center">🚀 Eternal Explorer in the Digital Realm</p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/sidz111/">
+  <a href="https://github.com/imjayeshpatil">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|+SQL%20|%20Computer+Networks;&center=true&width=550&height=40">
   </a>
 </p>
@@ -41,7 +41,7 @@
 <!-- Typing Animation -->
 <br>
 <p align="center">
-  <a href="https://github.com/sidz111/">
+  <a href="https://github.com/imjayeshpatil">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20|%20Python%20|%20SQL%20|%20Computer+Networks|%20Latex%20|%20Spring+Boot%20|%20Hibernate%20|%20Microservices;&center=true&width=550&height=40">
 
   </a>
@@ -51,7 +51,7 @@
 <br>
 <h2 align="center">:trophy: Legendary Exploits</h2>
 <p align="center">
-  <a href="https://github.com/sidz111/">
+  <a href="https://github.com/imjayeshpatil">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Students+Innovation+Festival;IISF+2022+MANIT;Top+100+Teams+in+India;&center=true&width=550&height=40">
   </a>
 </p>
@@ -118,11 +118,11 @@
 <h2 align="center">:iphone: Join My Network</h2>
 <div align="center">
   <!-- Animated LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
+  <a href="https://www.linkedin.com/in/imjayeshpatil/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
   <!-- Animated Gmail Icon -->
-  <a href="mailto:sssurwade2212@gmail.com">
+  <a href="mailto:japatil1996@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
