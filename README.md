@@ -10,7 +10,7 @@
 
 <p align="center"> 
   • 🇮🇳 Lives in India - Nashik Pune<br>
-  • 📧 Contact me at japatil1996@gmail.com<br>
+  • 📧 Contact me at jayeshpatil944@gmail.com<br>
   • 👨‍💻 I’m Java FullStack.<br>
   • 💬 Ask me about Java.<br>
   • 🧿 View my <a href="https://imjayeshpatil.github.io/portfolio/" target="_blank">Portfolio</a><br>
