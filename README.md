@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
-<!--   <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image"> -->
-  <h2 align="left">Hi 👋 I am Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd</h2>
+  <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image">
+<!--   <h2 align="left">Hi 👋 I am Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd</h2> -->
 </p>
 
 <h1 align="center">👾 Greetings, I'm Jayesh Patil! 👾</h1>
