@@ -111,3 +111,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/imjayeshpatil/imjayeshpatil/output/snake.svg" alt="Snake animation" />
+
+###
