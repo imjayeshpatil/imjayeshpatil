@@ -116,6 +116,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imjayeshpatil/imjayeshpatil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/imjayeshpatil/output/snake.svg" alt="Snake animation" />
 
 ###
