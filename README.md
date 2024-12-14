@@ -4,7 +4,7 @@
 <!--   <h2 align="left">Hi 👋 I am Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd</h2> -->
 </p>
 
-<h1 align="center">👾 Greetings, I'm Jayesh Patil! 👾</h1>
+<h1 align="center">👾 Greetings, I'm Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd! 👾</h1>
 
 <!-- About Me -->
 <h2 align="center">💫 About Me : </h2>
