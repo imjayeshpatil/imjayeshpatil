@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/imjayeshpatil?logo=Github&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/sidz111?style=for-the-badge">
-  <a href="https://github.com/sidz111/"><img src="https://komarev.com/ghpvc/?username=imjayeshpatil&style=for-the-badge"></a>
+  <a href="https://github.com/imjayeshpatil/"><img src="https://komarev.com/ghpvc/?username=imjayeshpatil&style=for-the-badge"></a>
 </div>
 
 <!-- GitHub Stats -->
