@@ -1,7 +1,11 @@
 <!-- Header -->
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://github.com/sidz111/sidz111/assets/119784108/df50843e-9c2c-4d6b-b48f-7f3202348a0c" alt="GitHub Header Image">
-<!--   <h2 align="left">Hi 👋 I am Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd</h2> -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
 
 <h1 align="center">👾 Greetings, I'm Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd! 👾</h1>
