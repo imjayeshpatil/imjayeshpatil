@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Jayesh+Patil;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
 
-<h1 align="center">👾 Greetings, I'm Jayesh Patil, Java Developer at EagleByte Solutions Pvt. Ltd! 👾</h1>
+<h1 align="center">👾 Greetings, I'm Jayesh Patil, Full Stack Java Developer ! 👾</h1>
 
 <!-- About Me -->
 <h2 align="center">💫 About Me : </h2>
